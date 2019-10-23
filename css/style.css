@@ -1,0 +1,34 @@
+.N__link{
+  postion: fixed;
+  padding: 25px 26px;
+    padding-left: 26px;
+    padding-top: 25px;
+    padding-right: 26px;
+    padding-bottom: 25px;
+
+}
+
+.jumbotron{
+  background-color: 'blue';
+}
+
+.white{
+  font-color: white;
+}
+
+div + .container{
+  width: 300px;
+  border: 25px solid green;
+  padding: 25px;
+  margin: 25px;
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
